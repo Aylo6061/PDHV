@@ -24,3 +24,6 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
+
+# we shouldnt have any htms knows
+*.htm

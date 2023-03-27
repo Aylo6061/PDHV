@@ -1,0 +1,62 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,MPN,Voltage,Digikey PN,Tol,MANUFACTURER,MAXIMUM_PACKAGE_HEIGHT,PARTREV,STANDARD
+1,Unpolarized capacitor,C,C11 C14,27p,C_0603_1608Metric,2,~,CC0603JRNPO9BN270,,,,,,,
+2,Unpolarized capacitor,C,C2,100pF,C_0603_1608Metric,1,~,CL10C101JB8NNNC,50V,,,,,,
+3,Unpolarized capacitor,C,C25,1nF,C_0603_1608Metric,1,~,CL10B102KB8NNWC,,,,,,,
+4,Unpolarized capacitor,C,C13 C15 C16 C17 C18 C19 C20 C22 C23 C24 C30 C31 C33 C34,100nF,C_0603_1608Metric,14,~,CC0603KRX7R6BB104,10V,,,,,,
+5,Unpolarized capacitor,C,C27 C29 C32,100nF,C_0603_1608Metric,3,~,CL10B104KB8NNWC,50V,,,,,,
+6,Unpolarized capacitor,C,C12 C21,1uF,C_0603_1608Metric,2,~,CL10B105KP8NNNC,10V,,,,,,
+7,Unpolarized capacitor,C,C26 C28,1uF,C_0603_1608Metric,2,~,CL10A105KB8NNNC,50V,,,,,,
+8,Unpolarized capacitor,C,C7,1uF,C_0603_1608Metric,1,~,UMK107BJ105KA-T,25V,,,,,,
+9,"Polarized capacitor, US symbol",C_Polarized_US,C6,3.3u,CP_Radial_D10.0mm_P5.00mm,1,~,860021375011,400V,,,,,,
+10,Unpolarized capacitor,C,C1,10u,C_0603_1608Metric,1,~,CL21A106KAYNNNG,25V,,,,,,
+11,Unpolarized capacitor,C,C8 C9,10uF,C_0805_2012Metric,2,~,GRM21BR61H106KE43L,50V,,,,,,
+12,Unpolarized capacitor,C,C10,22uF,C_0603_1608Metric,1,~,CL10A226MP8NUNE,10V,,,,,,
+13,Unpolarized capacitor,C,C3 C4 C5,22uF,C_0805_2012Metric,3,~,CL21A226MAYNNNE,25V,,,,,,
+14,Diode,D,D2,600V,D_SMA,1,~,ES1J,600V,1655-ES1JCT-ND,,,,,
+15,"Quad bidirectional transil, Suppressor for ESD protection, 5V Standoff, 4 Channels, SOT-23-6",ESDA6V1BC6,D1,ESDA6V1BC6,SOT-23-6,1,http://www.st.com/content/ccc/resource/technical/document/datasheet/21/07/21/e3/a8/df/42/a2/CD00001906.pdf/files/CD00001906.pdf/jcr:content/translations/en.CD00001906.pdf,ESDA6V1BC6,,,,,,,
+16,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01_Female,J4,Conn_01x01_Female,CalTest_CT3151-2,1,~,CT3151-2,,,,,,,
+17,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01_Female,J5,Conn_01x01_Female,CalTest_CT3151-0,1,~,CT3151-0,,,,,,,
+18,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",Conn_Coaxial,J3,Conn_Coaxial,TE_5227161-2,1, ~,5227161-2,,,,,,,
+19,USB Full-Featured Type-C Receptacle connector,USB_C_Receptacle,J1 J2,USB_C_Receptacle,USB_C_Receptacle_JAE_DX07S016JA1R1500,2,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,DX07S016JA1R1500,,,,,,,
+20,"Solder Jumper, 2-pole, open",SolderJumper_2_Open,JP2 JP4,~,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,2,~,DNP,,,,,,,
+21,Flyback transformer 10:1 5A max,DA2034-AL,L1,DA2034-AL,DA2034-AL,1,,DA2034-AL,,,,,,,
+22,,K7803JT-500R3-LB,MOD1,K7803JT-500R3-LB,MORNSUN_K7803JT-500R3-LB,1,,K7803JT-500R3-LB,,,,,,,
+23,"30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23",AO3400A,Q3,AO3400A,SOT-23,1,http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf,AO3400A,,,,,,,
+24,,AON7296,Q1,AON7296,DFN3X3A_8L_EPA1_P_AOS,1,,AON7296,,,,,,,
+25,,AON7410,Q2,AON7410,DFN3X3A_8L_EPA1_P_AOS,1,,AON7410,,,,,,,
+26,Resistor,R,R3 R4 R5 R6,24,R_0603_1608Metric,4,~,RMCF0603FT24R0,,RMCF0603FT24R0CT-ND,1%,,,,
+27,Resistor,R,R16 R17 R20,1k,R_0603_1608Metric,3,~,RMCF0603FT1K00,,RMCF0603FT1K00CT-ND,,,,,
+28,Resistor,R,R21,4k7,R_0603_1608Metric,1,~,RC0603FR-074K7L,,311-4.70KHRCT-ND,,,,,
+29,Resistor,R,R1 R2 R8 R9,5.1k,R_0603_1608Metric,4,~,RMCF0603FT5K10,,RMCF0603FT5K10CT-ND,1%,,,,
+30,Resistor,R,R7 R11 R18,10k,R_0603_1608Metric,3,~,RMCF0603JT10K0,,,,,,,
+31,Resistor,R,R10,100k,R_0603_1608Metric,1,~,RMCF0603JG100K,,RMCF0603JG100KCT-ND,,,,,
+32,Resistor,R,R19 R22 R23,100k,RESC1632X60N,3,~,RMCF0603FT300K,,PRG3216P-1003-D-T5,,,,,
+33,Resistor,R,R15,.024 Ohm 1% 1/3W,R_0603_1608Metric,1,~,WFCP0603R0240FE66,,541-WFCP0603R0240FE66CT-ND,,,,,
+34,Resistor,R,R13,12k 1%,R_0603_1608Metric,1,~,RMCF0603FT12K0,,RMCF0603FT12K0CT-ND,,,,,
+35,Resistor,R,R14,43k 1%,R_0603_1608Metric,1,~,RC0603FR-0743KL,,311-43.0KHRCT-ND,,,,,
+36,Resistor,R,R12,R,R_0603_1608Metric,1,~,DNP,,,,,,,
+37,Single Pole Single Throw (SPST) switch,SW_SPST,SW1 SW2 SW3,SW_SPST,SW_SPST_PTS645,3,~,PTS645SL43SMTR92 LFS,,,,,,,
+38,,AD5170BRMZ2.5,U4,AD5170BRMZ2.5,MSOP-10_3x3mm_P0.5mm,1,,AD5170BRMZ2.5,,,,,,,
+39,,AMC3336-Q1,U7,AMC3336-Q1,SOIC-16W_7.5x10.3mm_P1.27mm,1,,AMC3336-Q1,,,,,,,
+40,,IP2721,U3,IP2721,TSSOP-16_4.4x5mm_P0.65mm,1,,IP2721,,,,,,,
+41,,LT3750A,U2,LT3750A,MSOP-10_3x3mm_P0.5mm,1,,LT3750A,,,,,,,
+42,,RP2040,U5,RP2040,QFN40P700X700X90-57N,1,,RP2040,,,,Raspberry Pi,0.9 mm,1.6.1,IPC 7351B
+43,"128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",W25Q128JVS,U6,W25Q128JVS,SOIC-8_5.23x5.23mm_P1.27mm,1,http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf,W25Q128JVS,,,,,,,
+44,"Full/Low Speed, iCoupler USB Digital Isolator, 2.5kV protection",ADUM3160,U1,~,SOIC-16W_7.5x10.3mm_P1.27mm,1,https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3160.pdf,ADUM3160,,,,,,,
+45,Two pin crystal,Crystal,Y1,Crystal,ABLS-2SMD-XTAL,1,~,ABLS-12.000MHZ-B4-T,,535-10218-1-ND,,,,,
+
+
+
+
+
+Component Groups:,45
+Component Count:,82
+Fitted Components:,82
+Number of PCBs:,1
+Total components:,82
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,3/21/2023 8:13:11 PM
+Schematic Source:,PD_HV.kicad_sch
+KiCad Version:,Eeschema (6.0.11)

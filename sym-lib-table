@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PDHV_sym")(type "KiCad")(uri "${KIPRJMOD}/PDHV_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/RP2040/RP2040.kicad_sym")(options "")(descr ""))
+)

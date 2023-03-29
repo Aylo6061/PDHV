@@ -408,7 +408,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PD_HV.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
